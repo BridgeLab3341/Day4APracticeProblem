@@ -23,9 +23,9 @@ namespace Day4APracticeProblem
                 Console.WriteLine(item);
             }
             //Removing element from list
-            list.Remove(6.2f);
+            //list.Remove(6.2f);
             Console.WriteLine("After deleting element of the arraylist are ---");
-            foreach (var item in list)
+            //foreach (var item in list)
             {
                 Console.WriteLine(item);
             }
