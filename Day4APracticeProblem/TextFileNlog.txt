@@ -1,0 +1,2 @@
+﻿2023-06-15 22:15:22.9063|INFO|Day4APracticeProblem.NLog|Info: Sum()
+2023-06-15 22:15:22.9173|DEBUG|Day4APracticeProblem.NLog|Debug: Sum()14
